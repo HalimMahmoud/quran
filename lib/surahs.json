@@ -1,0 +1,686 @@
+[
+  {
+    "id": 1,
+    "name_ar": "الفاتحة",
+    "name_en": "Al-Fatihah",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/001.mp3"
+  },
+  {
+    "id": 2,
+    "name_ar": "البقرة",
+    "name_en": "Al-Baqarah",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/002.mp3"
+  },
+  {
+    "id": 3,
+    "name_ar": "آل عمران",
+    "name_en": "Aal-E-Imran",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/003.mp3"
+  },
+  {
+    "id": 4,
+    "name_ar": "النساء",
+    "name_en": "An-Nisa",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/004.mp3"
+  },
+  {
+    "id": 5,
+    "name_ar": "المائدة",
+    "name_en": "Al-Maidah",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/005.mp3"
+  },
+  {
+    "id": 6,
+    "name_ar": "الأنعام",
+    "name_en": "Al-An'am",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/006.mp3"
+  },
+  {
+    "id": 7,
+    "name_ar": "الأعراف",
+    "name_en": "Al-A'raf",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/007.mp3"
+  },
+  {
+    "id": 8,
+    "name_ar": "الأنفال",
+    "name_en": "Al-Anfal",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/008.mp3"
+  },
+  {
+    "id": 9,
+    "name_ar": "التوبة",
+    "name_en": "At-Tawbah",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/009.mp3"
+  },
+  {
+    "id": 10,
+    "name_ar": "يونس",
+    "name_en": "Yunus",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/010.mp3"
+  },
+  {
+    "id": 11,
+    "name_ar": "هود",
+    "name_en": "Hud",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/011.mp3"
+  },
+  {
+    "id": 12,
+    "name_ar": "يوسف",
+    "name_en": "Yusuf",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/012.mp3"
+  },
+  {
+    "id": 13,
+    "name_ar": "الرعد",
+    "name_en": "Ar-Ra'd",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/013.mp3"
+  },
+  {
+    "id": 14,
+    "name_ar": "إبراهيم",
+    "name_en": "Ibrahim",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/014.mp3"
+  },
+  {
+    "id": 15,
+    "name_ar": "الحجر",
+    "name_en": "Al-Hijr",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/015.mp3"
+  },
+  {
+    "id": 16,
+    "name_ar": "النحل",
+    "name_en": "An-Nahl",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/016.mp3"
+  },
+  {
+    "id": 17,
+    "name_ar": "الإسراء",
+    "name_en": "Al-Isra",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/017.mp3"
+  },
+  {
+    "id": 18,
+    "name_ar": "الكهف",
+    "name_en": "Al-Kahf",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/018.mp3"
+  },
+  {
+    "id": 19,
+    "name_ar": "مريم",
+    "name_en": "Maryam",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/019.mp3"
+  },
+  {
+    "id": 20,
+    "name_ar": "طه",
+    "name_en": "Ta-Ha",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/020.mp3"
+  },
+  {
+    "id": 21,
+    "name_ar": "الأنبياء",
+    "name_en": "Al-Anbiya",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/021.mp3"
+  },
+  {
+    "id": 22,
+    "name_ar": "الحج",
+    "name_en": "Al-Hajj",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/022.mp3"
+  },
+  {
+    "id": 23,
+    "name_ar": "المؤمنون",
+    "name_en": "Al-Mu'minun",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/023.mp3"
+  },
+  {
+    "id": 24,
+    "name_ar": "النور",
+    "name_en": "An-Nur",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/024.mp3"
+  },
+  {
+    "id": 25,
+    "name_ar": "الفرقان",
+    "name_en": "Al-Furqan",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/025.mp3"
+  },
+  {
+    "id": 26,
+    "name_ar": "الشعراء",
+    "name_en": "Ash-Shu'ara",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/026.mp3"
+  },
+  {
+    "id": 27,
+    "name_ar": "النمل",
+    "name_en": "An-Naml",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/027.mp3"
+  },
+  {
+    "id": 28,
+    "name_ar": "القصص",
+    "name_en": "Al-Qasas",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/028.mp3"
+  },
+  {
+    "id": 29,
+    "name_ar": "العنكبوت",
+    "name_en": "Al-Ankabut",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/029.mp3"
+  },
+  {
+    "id": 30,
+    "name_ar": "الروم",
+    "name_en": "Ar-Rum",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/030.mp3"
+  },
+  {
+    "id": 31,
+    "name_ar": "لقمان",
+    "name_en": "Luqman",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/031.mp3"
+  },
+  {
+    "id": 32,
+    "name_ar": "السجدة",
+    "name_en": "As-Sajda",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/032.mp3"
+  },
+  {
+    "id": 33,
+    "name_ar": "الأحزاب",
+    "name_en": "Al-Ahzab",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/033.mp3"
+  },
+  {
+    "id": 34,
+    "name_ar": "سبإ",
+    "name_en": "Saba",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/034.mp3"
+  },
+  {
+    "id": 35,
+    "name_ar": "فاطر",
+    "name_en": "Fatir",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/035.mp3"
+  },
+  {
+    "id": 36,
+    "name_ar": "يس",
+    "name_en": "Ya-Sin",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/036.mp3"
+  },
+  {
+    "id": 37,
+    "name_ar": "الصافات",
+    "name_en": "As-Saffat",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/037.mp3"
+  },
+  {
+    "id": 38,
+    "name_ar": "ص",
+    "name_en": "Sad",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/038.mp3"
+  },
+  {
+    "id": 39,
+    "name_ar": "الزمر",
+    "name_en": "Az-Zumar",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/039.mp3"
+  },
+  {
+    "id": 40,
+    "name_ar": "غافر",
+    "name_en": "Ghafir",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/040.mp3"
+  },
+  {
+    "id": 41,
+    "name_ar": "فصلت",
+    "name_en": "Fussilat",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/041.mp3"
+  },
+  {
+    "id": 42,
+    "name_ar": "الشورى",
+    "name_en": "Ash-Shura",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/042.mp3"
+  },
+  {
+    "id": 43,
+    "name_ar": "الزخرف",
+    "name_en": "Az-Zukhruf",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/043.mp3"
+  },
+  {
+    "id": 44,
+    "name_ar": "الدخان",
+    "name_en": "Ad-Dukhan",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/044.mp3"
+  },
+  {
+    "id": 45,
+    "name_ar": "الجاثية",
+    "name_en": "Al-Jathiya",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/045.mp3"
+  },
+  {
+    "id": 46,
+    "name_ar": "الأحقاف",
+    "name_en": "Al-Ahqaf",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/046.mp3"
+  },
+  {
+    "id": 47,
+    "name_ar": "محمد",
+    "name_en": "Muhammad",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/047.mp3"
+  },
+  {
+    "id": 48,
+    "name_ar": "الفتح",
+    "name_en": "Al-Fath",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/048.mp3"
+  },
+  {
+    "id": 49,
+    "name_ar": "الحجرات",
+    "name_en": "Al-Hujurat",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/049.mp3"
+  },
+  {
+    "id": 50,
+    "name_ar": "ق",
+    "name_en": "Qaf",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/050.mp3"
+  },
+  {
+    "id": 51,
+    "name_ar": "الذاريات",
+    "name_en": "Adh-Dhariyat",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/051.mp3"
+  },
+  {
+    "id": 52,
+    "name_ar": "الطور",
+    "name_en": "At-Tur",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/052.mp3"
+  },
+  {
+    "id": 53,
+    "name_ar": "النجم",
+    "name_en": "An-Najm",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/053.mp3"
+  },
+  {
+    "id": 54,
+    "name_ar": "القمر",
+    "name_en": "Al-Qamar",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/054.mp3"
+  },
+  {
+    "id": 55,
+    "name_ar": "الرحمن",
+    "name_en": "Ar-Rahman",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/055.mp3"
+  },
+  {
+    "id": 56,
+    "name_ar": "الواقعة",
+    "name_en": "Al-Waqia",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/056.mp3"
+  },
+  {
+    "id": 57,
+    "name_ar": "الحديد",
+    "name_en": "Al-Hadid",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/057.mp3"
+  },
+  {
+    "id": 58,
+    "name_ar": "المجادلة",
+    "name_en": "Al-Mujadila",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/058.mp3"
+  },
+  {
+    "id": 59,
+    "name_ar": "الحشر",
+    "name_en": "Al-Hashr",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/059.mp3"
+  },
+  {
+    "id": 60,
+    "name_ar": "الممتحنة",
+    "name_en": "Al-Mumtahina",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/060.mp3"
+  },
+  {
+    "id": 61,
+    "name_ar": "الصف",
+    "name_en": "As-Saff",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/061.mp3"
+  },
+  {
+    "id": 62,
+    "name_ar": "الجمعة",
+    "name_en": "Al-Jumua",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/062.mp3"
+  },
+  {
+    "id": 63,
+    "name_ar": "المنافقون",
+    "name_en": "Al-Munafiqoon",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/063.mp3"
+  },
+  {
+    "id": 64,
+    "name_ar": "التغابن",
+    "name_en": "At-Taghabun",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/064.mp3"
+  },
+  {
+    "id": 65,
+    "name_ar": "الطلاق",
+    "name_en": "At-Talaq",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/065.mp3"
+  },
+  {
+    "id": 66,
+    "name_ar": "التحريم",
+    "name_en": "At-Tahrim",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/066.mp3"
+  },
+  {
+    "id": 67,
+    "name_ar": "الملك",
+    "name_en": "Al-Mulk",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/067.mp3"
+  },
+  {
+    "id": 68,
+    "name_ar": "القلم",
+    "name_en": "Al-Qalam",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/068.mp3"
+  },
+  {
+    "id": 69,
+    "name_ar": "الحاقة",
+    "name_en": "Al-Haaqqa",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/069.mp3"
+  },
+  {
+    "id": 70,
+    "name_ar": "المعارج",
+    "name_en": "Al-Maarij",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/070.mp3"
+  },
+  {
+    "id": 71,
+    "name_ar": "نوح",
+    "name_en": "Nuh",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/071.mp3"
+  },
+  {
+    "id": 72,
+    "name_ar": "الجن",
+    "name_en": "Al-Jinn",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/072.mp3"
+  },
+  {
+    "id": 73,
+    "name_ar": "المزمل",
+    "name_en": "Al-Muzzammil",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/073.mp3"
+  },
+  {
+    "id": 74,
+    "name_ar": "المدثر",
+    "name_en": "Al-Muddaththir",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/074.mp3"
+  },
+  {
+    "id": 75,
+    "name_ar": "القيامة",
+    "name_en": "Al-Qiyama",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/075.mp3"
+  },
+  {
+    "id": 76,
+    "name_ar": "الإنسان",
+    "name_en": "Al-Insan",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/076.mp3"
+  },
+  {
+    "id": 77,
+    "name_ar": "المرسلات",
+    "name_en": "Al-Mursalat",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/077.mp3"
+  },
+  {
+    "id": 78,
+    "name_ar": "النبأ",
+    "name_en": "An-Naba",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/078.mp3"
+  },
+  {
+    "id": 79,
+    "name_ar": "النازعات",
+    "name_en": "An-Nazi'at",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/079.mp3"
+  },
+  {
+    "id": 80,
+    "name_ar": "عبس",
+    "name_en": "Abasa",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/080.mp3"
+  },
+  {
+    "id": 81,
+    "name_ar": "التكوير",
+    "name_en": "At-Takwir",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/081.mp3"
+  },
+  {
+    "id": 82,
+    "name_ar": "الإنفطار",
+    "name_en": "Al-Infitar",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/082.mp3"
+  },
+  {
+    "id": 83,
+    "name_ar": "المطففين",
+    "name_en": "Al-Mutaffifin",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/083.mp3"
+  },
+  {
+    "id": 84,
+    "name_ar": "الإنشقاق",
+    "name_en": "Al-Inshiqaq",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/084.mp3"
+  },
+  {
+    "id": 85,
+    "name_ar": "البروج",
+    "name_en": "Al-Buruj",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/085.mp3"
+  },
+  {
+    "id": 86,
+    "name_ar": "الطارق",
+    "name_en": "At-Tariq",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/086.mp3"
+  },
+  {
+    "id": 87,
+    "name_ar": "الأعلى",
+    "name_en": "Al-Ala",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/087.mp3"
+  },
+  {
+    "id": 88,
+    "name_ar": "الغاشية",
+    "name_en": "Al-Ghashiya",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/088.mp3"
+  },
+  {
+    "id": 89,
+    "name_ar": "الفجر",
+    "name_en": "Al-Fajr",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/089.mp3"
+  },
+  {
+    "id": 90,
+    "name_ar": "البلد",
+    "name_en": "Al-Balad",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/090.mp3"
+  },
+  {
+    "id": 91,
+    "name_ar": "الشمس",
+    "name_en": "Ash-Shams",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/091.mp3"
+  },
+  {
+    "id": 92,
+    "name_ar": "الليل",
+    "name_en": "Al-Lail",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/092.mp3"
+  },
+  {
+    "id": 93,
+    "name_ar": "الضحى",
+    "name_en": "Ad-Duha",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/093.mp3"
+  },
+  {
+    "id": 94,
+    "name_ar": "الشرح",
+    "name_en": "Ash-Sharh",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/094.mp3"
+  },
+  {
+    "id": 95,
+    "name_ar": "التين",
+    "name_en": "At-Tin",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/095.mp3"
+  },
+  {
+    "id": 96,
+    "name_ar": "العلق",
+    "name_en": "Al-Alaq",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/096.mp3"
+  },
+  {
+    "id": 97,
+    "name_ar": "القدر",
+    "name_en": "Al-Qadr",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/097.mp3"
+  },
+  {
+    "id": 98,
+    "name_ar": "البينة",
+    "name_en": "Al-Bayyina",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/098.mp3"
+  },
+  {
+    "id": 99,
+    "name_ar": "الزلزلة",
+    "name_en": "Az-Zalzala",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/099.mp3"
+  },
+  {
+    "id": 100,
+    "name_ar": "العاديات",
+    "name_en": "Al-Adiyat",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/100.mp3"
+  },
+  {
+    "id": 101,
+    "name_ar": "القارعة",
+    "name_en": "Al-Qari'a",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/101.mp3"
+  },
+  {
+    "id": 102,
+    "name_ar": "التكاثر",
+    "name_en": "At-Takathur",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/102.mp3"
+  },
+  {
+    "id": 103,
+    "name_ar": "العصر",
+    "name_en": "Al-Asr",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/103.mp3"
+  },
+  {
+    "id": 104,
+    "name_ar": "الهمزة",
+    "name_en": "Al-Humaza",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/104.mp3"
+  },
+  {
+    "id": 105,
+    "name_ar": "الفيل",
+    "name_en": "Al-Fil",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/105.mp3"
+  },
+  {
+    "id": 106,
+    "name_ar": "قريش",
+    "name_en": "Quraish",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/106.mp3"
+  },
+  {
+    "id": 107,
+    "name_ar": "الماعون",
+    "name_en": "Al-Ma'un",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/107.mp3"
+  },
+  {
+    "id": 108,
+    "name_ar": "الكوثر",
+    "name_en": "Al-Kawthar",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/108.mp3"
+  },
+  {
+    "id": 109,
+    "name_ar": "الكافرون",
+    "name_en": "Al-Kafiroon",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/109.mp3"
+  },
+  {
+    "id": 110,
+    "name_ar": "النصر",
+    "name_en": "An-Nasr",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/110.mp3"
+  },
+  {
+    "id": 111,
+    "name_ar": "المسد",
+    "name_en": "Al-Masad",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/111.mp3"
+  },
+  {
+    "id": 112,
+    "name_ar": "الإخلاص",
+    "name_en": "Al-Ikhlas",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/112.mp3"
+  },
+  {
+    "id": 113,
+    "name_ar": "الفلق",
+    "name_en": "Al-Falaq",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/113.mp3"
+  },
+  {
+    "id": 114,
+    "name_ar": "الناس",
+    "name_en": "An-Nas",
+    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/114.mp3"
+  }
+]
