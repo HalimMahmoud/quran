@@ -5,6 +5,7 @@ import react from "@vitejs/plugin-react-swc";
 import { VitePWA } from "vite-plugin-pwa";
 
 export default defineConfig({
+  base: "/quran/",
   plugins: [
     react(),
     tailwindcss(),
@@ -16,7 +17,7 @@ export default defineConfig({
         name: "My Quran App",
         short_name: "Quran",
         description: "Read Quran offline",
-        start_url: "/",
+        start_url: "/quran/",
         display: "standalone",
         background_color: "#ffffff",
         theme_color: "#ffffff",
