@@ -1,6 +1,7 @@
 import { useState } from "react";
 import Player from "./Player";
 import surahs from "../lib/surahs.json"; // your JSON file
+import IOSInstallPrompt from "./IOSInstallPrompt";
 
 interface Surah {
   id: number;
@@ -14,6 +15,7 @@ export default function App() {
 
   return (
     <div className="min-h-screen flex flex-col">
+      <IOSInstallPrompt />
       {/* Playlist */}
       <div className="flex-1 overflow-y-auto p-4">
         <h1 className="text-2xl font-bold mb-4">📖 Quran Playlist</h1>
@@ -33,7 +35,6 @@ export default function App() {
           ))}
         </ul>
       </div>
-
       {/* Audio Player at the bottom */}
       <Player
         surahs={surahs}
